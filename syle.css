@@ -1,0 +1,30 @@
+.btn btn-warning heading
+{
+    font-size: 40px;
+    width: 100%;
+    margin:0px;
+}
+#span1
+{
+ font-size: 22px;
+ color: #0000FF ;
+}
+body
+{
+    background-size:cover;
+}
+
+#SONG_NAME
+{
+    width: 25px;
+
+}
+#canvas
+{
+width: 500px;
+height: 500px;
+ background-color: #000000;
+ border: 5px solid white;
+ border-radius: 20px;
+ box-shadow: 5px 5px 5px #73cfd8;
+}
